@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="djangoProject7" deleteMissingItems="true" createEmptyFolders="true" autoUploadExternalChanges="true" showDifferentInSync="false" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="djangoProject5">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/django/djangoProject5" local="$PROJECT_DIR$/../djangoProject5" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="djangoProject7">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/opt/django/djangoProject7" local="$PROJECT_DIR$/../djangoProject7" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.168.2.8:22234">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
